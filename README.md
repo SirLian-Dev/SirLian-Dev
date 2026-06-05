@@ -26,17 +26,17 @@ Alineo mis herramientas principales para construir soluciones robustas y escalab
 
 Aquí puedes explorar las soluciones reales en las que aplico mi flujo de trabajo diario:
 
-#### 📦 [Sistema de Gestión de Inventarios (API REST)](https://github.com/SirLian-Dev)
+#### 📦 [Sistema de Gestión de Inventarios (API REST)]([https://github.com/SirLian-Dev](https://github.com/SirLian-Dev/inventory-management-api))
 *   **Descripción:** Backend completo para el control integral de stock y flujos de productos.
 *   **Tecnologías:** Java, Spring Boot, Maven, PostgreSQL.
 *   **Enfoque Técnico:** Persistencia de datos relacionales, manejo estructurado de excepciones y testing riguroso de endpoints.
 
-#### 💳 [Billetera Digital Segura](https://github.com/SirLian-Dev)
+#### 💳 [Billetera Digital Segura]([https://github.com/SirLian-Dev](https://github.com/SirLian-Dev/digital-wallet-api))
 *   **Descripción:** Sistema enfocado en la consistencia de datos y la seguridad en flujos financieros.
 *   **Tecnologías:** Java, Spring Boot, PostgreSQL, Postman.
 *   **Enfoque Técnico:** Arquitectura limpia, integridad de la información y validación estricta de lógica de negocio.
 
-#### 🧮 [Calculadora Multifunción](https://github.com/SirLian-Dev)
+#### 🧮 [Calculadora Multifunción]([https://github.com/SirLian-Dev](https://github.com/SirLian-Dev/Multifunction-Calculator))
 *   **Descripción:** Aplicación interactiva con interfaz gráfica estilizada para una experiencia de usuario moderna.
 *   **Tecnologías:** Java, JavaFX, CSS nativo.
 *   **Enfoque Técnico:** Manejo avanzado de eventos de usuario, lógica matemática estructurada y diseño modular de interfaces.
