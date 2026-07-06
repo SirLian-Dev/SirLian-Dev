@@ -19,7 +19,7 @@ Diseñado para construir soluciones empresariales del lado del servidor, seguras
 
 ---
 
-### 💻 Proyectos Core Destacados
+### 💻 Proyectos Destacados
 
 > 💡 **Nota para Reclutadores y Líderes Técnicos:** Todos mis proyectos backend incluyen sus respectivas colecciones de **Postman (JSON)** listas en el repositorio para importar y probar la ejecución de los endpoints en tiempo real.
 
@@ -33,10 +33,10 @@ Diseñado para construir soluciones empresariales del lado del servidor, seguras
 *   **Ecosistema:** Java, Spring Boot, PostgreSQL, Hibernate, Postman.
 *   **Enfoque Técnico:** Aplicación de conceptos de aislamiento transaccional para asegurar la integridad de la información, validación estricta de lógica de negocio en la capa de servicios, implementación de Data Transfer Objects (DTOs) para proteger las entidades del modelo y control de concurrencia básica.
 
-#### 🧮 [Calculadora Multifunción de Escritorio](https://github.com/SirLian-Dev/Multifunction-Calculator)
-*   **Descripción:** Aplicación interactiva de escritorio con una interfaz de usuario moderna, fluida y modular.
-*   **Ecosistema:** Java Core, JavaFX, CSS Nativo.
-*   **Enfoque Técnico:** Arquitectura basada en patrones de diseño para GUIs, manejo avanzado de eventos de usuario, lógica matemática estructurada para evitar desbordamientos de memoria y desacoplamiento total entre la lógica de negocio y la capa de presentación.
+#### 🚀 [CareerTrack-En Desarrollo](https://github.com/SirLian-Dev/CareerTrack)
+*   **Descripción:** Un proyecto real y personal implementando backend, frontend y DataBase, pensada y diseñada para ayudar a quienes buscan empleo a organizar, supervisar y optimizar su proceso de búsqueda de trabajo.
+*   **Ecosistema:** Java Core, Spring, PostgreSQL. (React, Vercel)
+*   **Enfoque Técnico:** CareerTrack se está desarrollando como un producto de software real, siguiendo las prácticas profesionales de ingeniería de software, teniendo como objetivo no solo construir una aplicación funcional, sino también demostrar Arquitectura limpia, Principios SOLID, Diseño de API REST, Autenticación segura (JWT), Diseño de bases de datos, Flujo de trabajo de Git, Desarrollo ágil.
 
 ---
 
