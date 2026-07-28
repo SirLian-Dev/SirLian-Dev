@@ -14,9 +14,7 @@ Soy desarrollador Backend especializado en Java y el ecosistema Spring.
 
 Disfruto diseñando APIs REST, modelando bases de datos relacionales y construyendo aplicaciones mantenibles siguiendo principios de arquitectura limpia, POO y buenas prácticas de ingeniería de software.
 
-Actualmente estoy construyendo **CareerTrack**, un proyecto personal que representa mi visión de crear herramientas que ayuden a otros desarrolladores a crecer profesionalmente.
-
-Mi objetivo no es desarrollar decenas de proyectos aislados. Mi objetivo es construir productos útiles.
+Actualmente estoy construyendo **CareerTrack**, un proyecto personal que representa mi visión de crear herramientas que ayuden a otros desarrolladores a crecer profesionalmente, dado que mi objetivo no es desarrollar decenas de proyectos aislados, mi objetivo es construir productos útiles.
 
 ---
 
@@ -73,11 +71,11 @@ Todavía está en desarrollo, pero todo el proceso será construido públicament
 
 ✅ Consolidar CareerTrack como producto.
 
+⬜ Implementar IA en CareerTrack.
+
 ⬜ Lanzar el primer MVP.
 
 ⬜ Obtener los primeros usuarios.
-
-⬜ Implementar IA en CareerTrack.
 
 ⬜ Construir una comunidad alrededor del proyecto.
 
